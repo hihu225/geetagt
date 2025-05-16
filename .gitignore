@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+.env
+
+# Android
+android/.gradle/
+android/.idea/
+android/app/build/
+android/build/
+*.apk
+*.dex
+*.class
+
+# Vite
+frontend/dist/
+
+# System files
+.DS_Store
+Thumbs.db
